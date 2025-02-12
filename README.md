@@ -1,2 +1,2 @@
-# kaijuname
-Make your kaiju name.
+# 괴수 이름 짓기
+울트라맨 괴수들의 이름을 당신의 이름과 섞어 유니크한 이름을 지어 보세요.
